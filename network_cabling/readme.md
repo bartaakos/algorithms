@@ -24,4 +24,10 @@ CONSTRAINTS:
 0 ≤ L ≤ 263
 -230 ≤ x ≤ 230
 -230 ≤ y ≤ 230
+
+Available RAM : 512MB
+Timeout: x seconds
+The program has to read inputs from standard input
+The program has to write the solution to standard output
+The program must run in the test environment
 </pre>
