@@ -23,7 +23,3 @@ var decode = function(h) {
 
     return s;
 }
-
-alert(decode(hash("alma")));
-
-alert(decode(956446786872726));
